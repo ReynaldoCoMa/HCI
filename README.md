@@ -1,5 +1,4 @@
-# Interacción Humano Computadora (Entrega preliminar)
-
+# HCI
 Proyecto de la asignatura Interacción Humano Computadora (2024).
 
 ### Integrantes del equipo
